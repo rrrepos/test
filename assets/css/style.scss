@@ -4,9 +4,9 @@
 @import "fonts.scss";
 
 h2 {
-    color: blue;
+    color: green;
 }
 
 h3 {
-    font-family: "Droid Sans Mono", "monospace", monospace, "Droid Sans Fallback";
+    font-family: "Droid Sans Mono", "monospace", monospace, "Droid Sans Fallback" !important;
 }
