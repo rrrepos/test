@@ -1,7 +1,12 @@
 ---
 ---
 @import "{{ site.theme }}";
+@import "fonts.scss";
 
 h2 {
     color: blue;
+}
+
+h3 {
+    font-family: "Droid Sans Mono", "monospace", monospace, "Droid Sans Fallback";
 }
