@@ -3,10 +3,10 @@
 @import "{{ site.theme }}";
 @import "fonts.scss";
 
-h2 {
-    color: green;
+body {
+    font-family: "Droid Sans Mono", "monospace", monospace, "Droid Sans Fallback" !important;
 }
 
-h3 {
-    font-family: "Droid Sans Mono", "monospace", monospace, "Droid Sans Fallback" !important;
+h2 {
+    color: yellow;
 }
