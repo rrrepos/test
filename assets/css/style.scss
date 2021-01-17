@@ -7,6 +7,51 @@ body {
     font-family: "Droid Sans Mono", "monospace", monospace, "Droid Sans Fallback" !important;
 }
 
-h2 {
-    color: green;
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Droid Sans Mono", "monospace", monospace, "Droid Sans Fallback" !important;
 }
+     
+  strong {
+    font-family: "Droid Sans Mono", "monospace", monospace, "Droid Sans Fallback" !important;
+  }
+  
+  
+  code {
+    font-family: "Droid Sans Mono", "monospace", monospace, "Droid Sans Fallback" !important;
+  }
+  
+  
+  th {
+    font-family: "Droid Sans Mono", "monospace", monospace, "Droid Sans Fallback" !important;
+  }
+  
+  
+  dt {
+    font-family: "Droid Sans Mono", "monospace", monospace, "Droid Sans Fallback" !important;
+  }
+  
+  
+  #header {
+    nav {  
+      li {
+        font-family: "Droid Sans Mono", "monospace", monospace, "Droid Sans Fallback" !important;
+    }
+  }
+}
+  
+  section {
+    #title {
+      h1 {
+        font-family: "Droid Sans Mono", "monospace", monospace, "Droid Sans Fallback" !important;
+    }
+  
+      p {
+        font-family: "Droid Sans Mono", "monospace", monospace, "Droid Sans Fallback" !important;
+    }
+  
+      .credits {
+        font-family: "Droid Sans Mono", "monospace", monospace, "Droid Sans Fallback" !important;
+    }
+  }
+}
+  
