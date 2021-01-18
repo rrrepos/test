@@ -627,8 +627,9 @@ header {
     width: 100%;
     height: 100%;
     display: grid;
-    grid-template-rows: max-content auto;
+    grid-template-rows: max-content minmax(auto, max-content);
     grid-template-columns: auto;
+    overflow: auto;
 }
 
 .content-container {
@@ -636,7 +637,6 @@ header {
     display: grid;
     grid-template-rows: auto max-content;
     grid-template-columns: auto;
-    overflow-y: auto;
     overflow-x: hidden;
 }
 
