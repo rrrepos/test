@@ -283,7 +283,7 @@ header {
 
 .main {
     display: grid;
-    grid-template-rows: max-content minmax(1fr, max-content) max-content;
+    grid-template-rows: max-content minmax(auto, max-content) max-content;
 }
 
 .footer {
