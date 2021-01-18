@@ -299,6 +299,7 @@ blockquote {
 header {
     height: 4.8rem;
     width: 100%;
+    max-width: 60rem;
     background-image: var(--header-image);
     border-bottom-width: 0.4rem;
     border-bottom-style:solid;
@@ -328,6 +329,7 @@ header {
 }
 
 .content-container {
+    max-width: 60rem;
     display: grid;
     grid-template-rows: auto max-content;
     grid-template-columns: auto;
