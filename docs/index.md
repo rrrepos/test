@@ -34,6 +34,6 @@ In today's visual world, we mostly express ourselves using different multimedia.
 
 
 #### Additional Links:
-* **Examples**:
-* **Documentation**:
-* **Developers**: 
+* [Examples](./examples.html): Explore multiple ways in which UMDs can be shared and viewed.
+* [Documentation](./documentation.html): More information about UMDs can be read here.
+* [Developers](./developers.html): Developers and others can read about the Specs and ways in which UMD can be incorporated in projects. 
