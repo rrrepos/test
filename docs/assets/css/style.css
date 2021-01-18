@@ -289,6 +289,15 @@ header {
     grid-template-columns: auto;
 }
 
+.content-container {
+    display: grid;
+    grid-template-rows: auto max-content;
+    grid-template-columns: auto;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 1.6rem;
+}
+
 .footer {
     width: 100%;
     height: 3.2rem;
