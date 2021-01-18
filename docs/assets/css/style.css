@@ -637,7 +637,6 @@ header {
     display: grid;
     grid-template-rows: auto max-content;
     grid-template-columns: auto;
-    overflow-x: hidden;
 }
 
 .content {
