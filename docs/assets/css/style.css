@@ -556,7 +556,6 @@ p, ul, ol, table, pre, dl {
 
 ul {
     list-style-image: url('../images/bullet.png');
-    font-size: 1.4rem;
 }
 
 li {
@@ -587,7 +586,7 @@ h6 {
     font-size: 1.0rem
 }
 
-p {
+p, ul, li {
     font-size: 1.4rem
 }
 
@@ -604,13 +603,12 @@ blockquote {
 header {
     height: 4.8rem;
     width: 100%;
-    max-width: 60rem;
     background-image: var(--header-image);
     border-bottom-width: 0.4rem;
     border-bottom-style: solid;
     border-bottom-color: var(--bg-layer-3);
     display: grid;
-    grid-auto-flow: columns;
+    grid-auto-flow: column;
     align-items: center;
 }
 
