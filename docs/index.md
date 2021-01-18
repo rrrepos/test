@@ -4,6 +4,12 @@
 <br/>
 > UMD is a new type of document that can hold one or more content types that can be shared, viewed and edited. The content can be: **text**, **images**, **video**, **audio**, **pdf** and **forms**.
 
+### Sample a UMD
+The link below will open a sample UMD document that contains image + text + youtube video + an assessment form. 
+
+(https://umd-project.org/app?url=https://storage.googleapis.com/dap-demo-cors/sample.umd)
+
+
 ### Features
 * It is a **container** document (*like zip*) that holds the different elements.
 * The individual elements can be either **links** or be **included** in the document.
@@ -26,11 +32,6 @@ In today's visual world, we mostly express ourselves using different multimedia.
 
 **Ideation**: If you wish to put together your thoughts with accompanying multimedia including images + audio + video, and wish to share it privately, UMD is the ideal candidate.
 
-
-### Sample a UMD
-The link below will open a sample UMD document that contains image + text + youtube video + an assessment form. 
-
-(https://umd-project.org/app?url=https://storage.googleapis.com/dap-demo-cors/sample.umd)
 
 #### Additional Links:
 * **Examples**:
