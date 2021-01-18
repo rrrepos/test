@@ -1,5 +1,5 @@
 ## Universal Markup Document
-#### A flexine format for media content
+#### A flexine format for any document
 {: .link }
 <br/>
 > UMD is a new type of document that can hold one or more content types that can be shared, viewed and edited. The media content can be: **text**, **images**, **video**, **audio**, **pdf** and **forms**.
@@ -13,7 +13,7 @@
 * A UMD Viewer webcomponent is available to embed it in websites or webapps.
 
 ### Use Cases
-In today's visual world, we mostly express ourselves using different multimedia. Some examples are: 
+In today's visual world, we mostly express ourselves using different multimedia. 
 
 1. **Education**: The lack of easily using multiple media in a single document is most experienced in training and education content. The following can very easily be included in a UMD document. 
 * An image with an accompanying audio.

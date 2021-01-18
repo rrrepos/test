@@ -631,7 +631,7 @@ a {
     color: var(--link-color);
 }
 
-button {
+.button {
     background-color: var(--button-bg);
     color: var(--button-fg);
     font-size: 1.4rem;
