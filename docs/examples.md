@@ -27,6 +27,6 @@ In this example, we will demo how to load a file that has previously been upload
 #### 4. **Sharing a link to directly open a UMD File.**
 This demonstrates how you can send a link to another person to directly open the UMD by just clicking on it. This is a variation of Example 3 where the user is not required to type the link.
 
-1. If the following link is shared with you, just click on it to open the umd file.
+1. You can share a link similar to that given below and the receiver can view the contents by just clicking it. This link can be shared via email or via any social media platform.
 2. [https://umd-project.org/app?url=https://storage.googleapis.com/dap-demo-cors/sample-edu.umd](../app?url=https://storage.googleapis.com/dap-demo-cors/sample-edu.umd){:target="_blank}
 
