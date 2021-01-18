@@ -7,9 +7,10 @@
 ### Features
 * It is a **container** document (*like zip*) that holds the different elements.
 * The individual elements can be either **links** or be **included** in the document.
-* It can be *transported* via email or stored in a network drive or posted in a messenging platform like any other document.
-* A free Viewer/ Creation tool is available to generate or view a UMD file.
+* Like any other document it can be *transported* via email or stored in a network drive or posted in a messenging platform like any other document.
+* A free Viewer/ Creation tool is available to generate and / or view an UMD file.
 * It is an open-source project with the specs available for contribution / enhancement.
+* A UMD Viewer webcomponent is available to embed it in websites or webapps.
 
 ### Uses
 In today's visual world, we mostly express using different multimedia. Some examples are: 
