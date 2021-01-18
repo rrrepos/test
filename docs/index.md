@@ -2,15 +2,15 @@
 #### A flexine format for any document
 {: .link }
 <br/>
-> UMD is a new type of document that can hold one or more content types that can be shared, viewed and edited. The media content can be: **text**, **images**, **video**, **audio**, **pdf** and **forms**.
+> UMD is a new type of document that can hold one or more content types that can be shared, viewed and edited. The content can be: **text**, **images**, **video**, **audio**, **pdf** and **forms**.
 
 ### Features
 * It is a **container** document (*like zip*) that holds the different elements.
 * The individual elements can be either **links** or be **included** in the document.
-* Like any other document it can be *transported* via email or stored in a network drive or posted in a messenging platform like any other document.
+* Like any other document it can be emailed or stored in a network drive or posted in a messenging platform.
 * A free Viewer/ Creation tool is available to generate and / or view an UMD file.
-* It is an open-source project with the specs available for contribution / enhancement.
 * A UMD Viewer webcomponent is available to embed it in websites or webapps.
+* It is an open-source project with the specs / code available for contribution / enhancement.
 
 ### Use Cases
 In today's visual world, we mostly express ourselves using different multimedia. 
@@ -26,8 +26,8 @@ In today's visual world, we mostly express ourselves using different multimedia.
 **Ideation**: If you wish to put together your thoughts with accompanying multimedia including images + audio + video, and wish to share it privately, UMD is the ideal candidate.
 
 ### Sample a UMD
-The link below will open a sample UMD document that contains image + text + youtube video + an assessment form.
-<a href="https://umd-project.org/app?url=https://storage.googleapis.com/dap-demo-cors/sample.umd>Sample.umd</a>
+The link below will open a sample UMD document that contains image + text + youtube video + an assessment form. 
+[sample.umd](https://umd-project.org/app?url=https://storage.googleapis.com/dap-demo-cors/sample.umd)
 
 #### Additional Links:
 * **Examples**:
