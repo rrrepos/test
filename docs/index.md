@@ -1,7 +1,7 @@
 ## Universal Markup Document
-##### A flexine format for media content
+#### A flexine format for media content
 {: .link }
-
+<br/>
 > UMD is a new type of document that can hold one or more content types that can be shared, viewed and edited. The media content can be: **text**, **images**, **video**, **audio**, **pdf** and **forms**.
 
 ### Features
