@@ -277,6 +277,11 @@ p, ul, ol, table, pre, dl {
     margin:0 0 2rem;
 }
 
+ul{
+    list-style-image:url('../images/bullet.png');
+  }
+  
+
 
 h1 {font-size: 2.8rem}
 h2 {font-size: 2.4rem}
