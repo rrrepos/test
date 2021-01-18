@@ -14,6 +14,7 @@ The link below will open a sample UMD document that contains image + text + yout
 * It is a **container** document (*like zip*) that holds the different elements.
 * The individual elements can be either **links** or be **included** in the document.
 * Like any other document it can be emailed or stored in a network drive or posted in a messenging platform.
+* The UMD file can be **password** protected.
 * A free Viewer/ Creation tool is available to generate and / or view an UMD file.
 * A UMD Viewer webcomponent is available to embed it in websites or webapps.
 * It is an open-source project with the specs / code available for contribution / enhancement.
