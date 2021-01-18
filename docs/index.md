@@ -21,3 +21,8 @@ In today's visual world, we mostly express using different multimedia. Some exam
 * A PDF document with an accompany assessment.
 * Some text followed by an image with a video link and a concluding PDF.
 This could be in the fields of education, training, blogging or simple sharing content privately via email or publicly on social media platforms.
+
+#### Additional Links:
+* **Examples**:
+* **Documentation**:
+* **Developers**: 
