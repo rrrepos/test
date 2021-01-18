@@ -636,8 +636,10 @@ a {
     color: var(--button-fg);
     font-size: 1.4rem;
     min-width: 6.4rem;
-    height: 3.6rem;
-    line-height: 3.6rem;
+    height: 3.0rem;
+    line-height: 3.0rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
 }
 
 blockquote {

@@ -15,17 +15,19 @@
 ### Use Cases
 In today's visual world, we mostly express ourselves using different multimedia. 
 
-1. **Education**: The lack of easily using multiple media in a single document is most experienced in training and education content. The following can very easily be included in a UMD document. 
+**Education**: The lack of easily using multiple media in a single document is most experienced in training and education content. The following can very easily be included in a UMD document. 
 * An image with an accompanying audio.
 * A video link with an accompaning text summary.
 * A PDF document with an accompany assessment.
 * Some text followed by an image with a video link and a concluding PDF.
+<br/>
+**Brochures**: Grabbing the attention of your target groups is always a challenge. UMDs would be the perfect format for marketing collateral that has a combination of videos + text + pdf content.
+<br/>
+**Ideation**: If you wish to put together your thoughts with accompanying multimedia including images + audio + video, and wish to share it privately, UMD is the ideal candidate.
 
-2. **Brochures**: Grabbing the attention of your target groups is always a challenge. UMDs would be the perfect format for marketing collateral that has a combination of videos + text + pdf content.
-
-3. **Ideation**: If you wish to put together your thoughts with accompanying multimedia including images + audio + video, and wish to share it privately, UMD is the ideal candidate.
-
-A host of other use-cases will be **cvs**, **project proposals** as well as **invites** with an RSVP form in them. 
+### Sample a UMD
+The link below will open a sample UMD document that contains image + text + youtube video + an assessment form.
+<a href="https://umd-project.org/app?url=https://storage.googleapis.com/dap-demo-cors/sample.umd>Sample.umd</a>
 
 #### Additional Links:
 * **Examples**:
