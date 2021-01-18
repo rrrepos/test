@@ -26,8 +26,8 @@ In today's visual world, we mostly express ourselves using different multimedia.
 **Ideation**: If you wish to put together your thoughts with accompanying multimedia including images + audio + video, and wish to share it privately, UMD is the ideal candidate.
 
 ### Sample a UMD
-The link below will open a sample UMD document that contains image + text + youtube video + an assessment form. 
-[sample.umd](https://umd-project.org/app?url=https://storage.googleapis.com/dap-demo-cors/sample.umd)
+The link below will open a sample UMD document that contains image + text + youtube video + an assessment form. </br>
+https://umd-project.org/app?url=https://storage.googleapis.com/dap-demo-cors/sample.umd
 
 #### Additional Links:
 * **Examples**:
