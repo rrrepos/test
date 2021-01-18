@@ -7,7 +7,7 @@
 ### Sample a UMD
 The link below will open a sample UMD document that contains image + text + youtube video + an assessment form. 
 
-[Link to sample.umd](https://umd-project.org/app?url=https://storage.googleapis.com/dap-demo-cors/sample.umd)
+[Link to sample.umd](https://umd-project.org/app?url=https://storage.googleapis.com/dap-demo-cors/sample.umd){:target="_blank"}
 
 
 ### Features
