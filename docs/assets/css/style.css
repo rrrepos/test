@@ -640,6 +640,7 @@ a {
     line-height: 3.0rem;
     border-radius: 0.4rem;
     cursor: pointer;
+    text-align: center;
 }
 
 blockquote {
