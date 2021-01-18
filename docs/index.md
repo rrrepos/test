@@ -1,6 +1,3 @@
----
-layout: default
----
 ### Universal Markup Document
 ###### A flexine format for media content
 {: .link }
