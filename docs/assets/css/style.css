@@ -627,6 +627,14 @@ a {
     color: var(--link-color);
 }
 
+button {
+    background-color: var(--bg-layer-2);
+    color: var(--fg-bright-2);
+    font-size: 1.4rem;
+    outline: none;
+    border:none;
+}
+
 blockquote {
     border-left: 0.4rem solid var(--link-color);
     margin: 0;
@@ -641,6 +649,7 @@ header {
     border-bottom-style: solid;
     border-bottom-color: var(--bg-layer-3);
     display: grid;
+    grid-auto-columns: auto;
     grid-auto-flow: column;
     align-items: center;
 }
@@ -657,7 +666,7 @@ header {
 }
 
 .app-button {
-    float:right;
+    margin-right: 1.6rem;
 }
 
 .main-container {
