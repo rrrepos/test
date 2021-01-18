@@ -21,13 +21,12 @@ The content is the same as Example 1 except that the UMD file is password protec
 In this example, we will demo how to load a file that has previously been uploaded to an internet server.
 
 1. Open the [UMD App](https://umd-project.org/app){:target="_blank"}
-2. In the space provided to enter the url, type: 
-
-`https://storage.googleapis.com/dap-demo-cors/sample-edu.umd`. 
+2. In the space provided to enter the url, type the link given below: 
+3. `https://storage.googleapis.com/dap-demo-cors/sample-edu.umd`. 
 
 #### 4. **Sharing a link to directly open a UMD File.**
 This demonstrates how you can send a link to another person to directly open the UMD by just clicking on it. This is a variation of Example 3 where the user is not required to type the link.
 
 1. If the following link is shared with you, just click on it to open the umd file.
+2. [https://umd-project.org/app?url=https://storage.googleapis.com/dap-demo-cors/sample-edu.umd](../app?url=https://storage.googleapis.com/dap-demo-cors/sample-edu.umd){:target="_blank}
 
-[https://umd-project.org/app?url=https://storage.googleapis.com/dap-demo-cors/sample-edu.umd](../app?url=https://storage.googleapis.com/dap-demo-cors/sample-edu.umd){:target="_blank}
