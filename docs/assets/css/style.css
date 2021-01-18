@@ -345,7 +345,8 @@ header {
 footer {
     display: grid;
     grid-auto-columns: max-content;
-    grid-auto-flow: columns;
+    grid-auto-flow: column;
+    grid-column-gap: 0.8rem;
     padding: 0.4rem;
     padding-left: 0.8rem !important;
     background-color: var(--bg-layer-2);
