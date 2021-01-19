@@ -30,7 +30,7 @@ The app permits you to specify a password when creating a file.Once done, the us
 #### How do we create an UMD file
 By using the free app. Read the section below on more details about it.
 
-</br>
+<br/>
 
 ### About the App
 #### How do we access the app
@@ -51,6 +51,9 @@ Check out the [Examples section](../examples.html).
 #### Is the app free
 The app is **free**. In addition, there is no login required to view or create umd files.
 
+<br/>
+
+### Creating UMD files
 #### How do we create a UMD file
 The app lets you view an UMD file as well as create it. The link is provided on the top of this screen. You can create a new UMD by adding components. The supported components are: text, image, audio, video, pdf, markdown. For each component you can provide the link or upload the file. That's it.
 
