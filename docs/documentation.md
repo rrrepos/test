@@ -6,6 +6,7 @@ This section will provide more details of the UMD project.
 
 ### About UMD
 #### What is UMD
+{: .subtitle}
 UMD is a new type of document. It stands for **Universal Markup Document**. The spec uses vanilla markup language to specify its content. It supports multiple content types within one document; hence it is a Universal document.
 
 #### What is the need for a new type of document
@@ -66,8 +67,10 @@ In the app, after adding the desired content, you will notice a **Download** ico
 #### Do we need to login to create a UMD file
 No. No login or fee required to view or create umd files.
 
-#### Are the UMD files we create stored on any server {: .subtitle}
+#### Are the UMD files we create stored on any server
+{: .subtitle}
 No. The UMD files that you created can only be downloaded by the creator on their local storage. We only maintain statistics of number of files created as an indicator of the usage of this tool.
 
-#### What about during Viewing of a UMD. Does it load it on any server {: .subtitle}
+#### What about during Viewing of a UMD. Does it load it on any server 
+{: .subtitle}
 Again no. When you upload a UMD on the App to view it, it is loaded on your local device only.
