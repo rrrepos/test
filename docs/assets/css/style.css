@@ -882,3 +882,8 @@ footer {
 .link {
     color: var(--link-color);
 }
+
+.subtitle {
+    color: var(--link-color) !important;
+    opacity: 0.5;
+}

@@ -66,8 +66,8 @@ In the app, after adding the desired content, you will notice a **Download** ico
 #### Do we need to login to create a UMD file
 No. No login or fee required to view or create umd files.
 
-#### Are the UMD files we create stored on any server
+#### Are the UMD files we create stored on any server {: .subtitle}
 No. The UMD files that you created can only be downloaded by the creator on their local storage. We only maintain statistics of number of files created as an indicator of the usage of this tool.
 
-#### What about during Viewing of a UMD. Does it load it on any server
+#### What about during Viewing of a UMD. Does it load it on any server {: .subtitle}
 Again no. When you upload a UMD on the App to view it, it is loaded on your local device only.
