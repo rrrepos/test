@@ -600,11 +600,13 @@ li {
 }
 
 h1 {
-    font-size: 2.8rem
+    font-size: 2.8rem;
+    font-weight: bold;
 }
 
 h2 {
-    font-size: 2.4rem
+    font-size: 2.4rem;
+    font-weight: bold;
 }
 
 h3 {
